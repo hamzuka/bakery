@@ -223,5 +223,6 @@ iplot(fig)
 ![Alt text](visualisasi.png)<br>
 
 ## Deployment
+![Alt text](deployment.png)
 ## [Link Aplikasi Streamlit](https://market-bakery.streamlit.app/)
 
