@@ -223,5 +223,5 @@ iplot(fig)
 ![Alt text](visualisasi.png)<br>
 
 ## Deployment
-## [Link Aplikasi Streamlit](https://app-cars--price-prediction.streamlit.app/)
+## [Link Aplikasi Streamlit](https://market-bakery.streamlit.app/)
 
